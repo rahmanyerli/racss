@@ -1,0 +1,59 @@
+<ul class="breadcrumb slash">
+	<li>
+		<a href="#">Home</a>
+	</li>
+	<li>
+		<a href="#">Components</a>
+	</li>
+	<li>
+		<a href="#">Breadcrumbs</a>
+	</li>
+</ul>
+<br>
+<ul class="breadcrumb pipe">
+	<li>
+		<a href="#">Home</a>
+	</li>
+	<li>
+		<a href="#">Components</a>
+	</li>
+	<li>
+		<a href="#">Breadcrumbs</a>
+	</li>
+</ul>
+<br>
+<ul class="breadcrumb dash">
+	<li>
+		<a href="#">Home</a>
+	</li>
+	<li>
+		<a href="#">Components</a>
+	</li>
+	<li>
+		<a href="#">Breadcrumbs</a>
+	</li>
+</ul>
+<br>
+<ul class="breadcrumb arrow">
+	<li>
+		<a href="#">Home</a>
+	</li>
+	<li>
+		<a href="#">Components</a>
+	</li>
+	<li>
+		<a href="#">Breadcrumbs</a>
+	</li>
+</ul>
+<br>
+<ul class="breadcrumb tilde">
+	<li>
+		<a href="#">Home</a>
+	</li>
+	<li>
+		<a href="#">Components</a>
+	</li>
+	<li>
+		<a href="#">Breadcrumbs</a>
+	</li>
+</ul>

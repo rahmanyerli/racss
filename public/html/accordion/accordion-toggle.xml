@@ -1,0 +1,16 @@
+<div class="accordion toggle">
+	<header>
+		<button type="button">...</button>
+	</header>
+	<main>
+		<p>...</p>
+	</main>
+</div>
+<div class="accordion toggle">
+	<header>
+		<button type="button">...</button>
+	</header>
+	<main>
+		<p>...</p>
+	</main>
+</div>

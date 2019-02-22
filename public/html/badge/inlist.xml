@@ -1,0 +1,19 @@
+<h6 class="color-purple">Grand Slam Winners</h6>
+<ul class="list border">
+	<li>
+		<span class="badge float-left bg-purple color-yellow">20</span>
+		Roger Federer
+	</li>
+	<li>
+		<span class="badge float-left bg-purple color-yellow">16</span>
+		Rafael Nadal
+	</li>
+	<li>
+		<span class="badge float-left bg-purple color-yellow">14</span>
+		Pete Sampras
+	</li>
+	<li>
+		<span class="badge float-left bg-purple color-yellow">14</span>
+		Novak Djokovic
+	</li>
+</ul>

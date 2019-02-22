@@ -1,0 +1,59 @@
+<ul class="breadcrumb slash bg-primary color-1">
+	<li>
+		<a href="#">Home</a>
+	</li>
+	<li>
+		<a href="#">Components</a>
+	</li>
+	<li>
+		<a href="#">Breadcrumbs</a>
+	</li>
+</ul>
+<br>
+<ul class="breadcrumb slash bg-purple color-yellow">
+	<li>
+		<a href="#">Home</a>
+	</li>
+	<li>
+		<a href="#">Components</a>
+	</li>
+	<li>
+		<a href="#">Breadcrumbs</a>
+	</li>
+</ul>
+<br>
+<ul class="breadcrumb slash bg-3 color-8">
+	<li>
+		<a href="#">Home</a>
+	</li>
+	<li>
+		<a href="#">Components</a>
+	</li>
+	<li>
+		<a href="#">Breadcrumbs</a>
+	</li>
+</ul>
+<br>
+<ul class="breadcrumb slash bg-yellow color-red">
+	<li>
+		<a href="#">Home</a>
+	</li>
+	<li>
+		<a href="#">Components</a>
+	</li>
+	<li>
+		<a href="#">Breadcrumbs</a>
+	</li>
+</ul>
+<br>
+<ul class="breadcrumb slash bg-dark color-6">
+	<li>
+		<a href="#">Home</a>
+	</li>
+	<li>
+		<a href="#">Components</a>
+	</li>
+	<li>
+		<a href="#">Breadcrumbs</a>
+	</li>
+</ul>

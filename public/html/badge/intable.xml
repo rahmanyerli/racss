@@ -1,0 +1,50 @@
+<table class="border text-left">
+	<thead>
+		<tr>
+			<th>
+				Product
+			</th>
+			<th>
+				Price
+			</th>
+			<th class="text-center">
+				Stock
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Eggplant
+			</td>
+			<td>
+				$12.99
+			</td>
+			<td class="text-center">
+				<span class="badge bg-green color-white radius-full">78</span>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pumpkin
+			</td>
+			<td>
+				$9.50
+			</td>
+			<td class="text-center">
+				<span class="badge bg-red color-white radius-full">0</span>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lettuce
+			</td>
+			<td>
+				$4.80
+			</td>
+			<td class="text-center">
+				<span class="badge bg-orange color-white radius-full">2</span>
+			</td>
+		</tr>
+	</tbody>
+</table>

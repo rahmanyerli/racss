@@ -1,0 +1,34 @@
+<body>
+	<header>
+		<nav>
+			<ul>
+				...
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section>
+			<aside>
+				<nav>
+					<ul>
+						...
+					</ul>
+				</nav>
+			</aside>
+			<section>
+				<article>
+					...
+				</article>
+				<article>
+					...
+				</article>
+				<article>
+					...
+				</article>
+			</section>
+		</section>
+	</main>
+	<footer>
+		...
+	</footer>
+</body>
