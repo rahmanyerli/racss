@@ -1,0 +1,29 @@
+<div class="cols gap">
+	<div class="span-3">
+		<button class="bg-1" type="button">bg-1</button>
+	</div>
+	<div class="span-3">
+		<button class="bg-2" type="button">bg-2</button>
+	</div>
+	<div class="span-3">
+		<button class="bg-3" type="button">bg-3</button>
+	</div>
+	<div class="span-3">
+		<button class="bg-4" type="button">bg-4</button>
+	</div>
+	<div class="span-3">
+		<button class="bg-5" type="button">bg-5</button>
+	</div>
+	<div class="span-3">
+		<button class="bg-6" type="button">bg-6</button>
+	</div>
+	<div class="span-3">
+		<button class="bg-7" type="button">bg-7</button>
+	</div>
+	<div class="span-3">
+		<button class="bg-8" type="button">bg-8</button>
+	</div>
+	<div class="span-3">
+		<button class="bg-9" type="button">bg-9</button>
+	</div>
+</div>

@@ -1,0 +1,38 @@
+<div class="cols gap">
+	<div class="span-3">
+		<button type="button">default</button>
+	</div>
+	<div class="span-3">
+		<button class="bg-primary" type="button">bg-primary</button>
+	</div>
+	<div class="span-3">
+		<button class="bg-secondary" type="button">bg-secondary</button>
+	</div>
+	<div class="span-3">
+		<button class="bg-blue" type="button">bg-blue</button>
+	</div>
+	<div class="span-3">
+		<button class="bg-teal" type="button">bg-teal</button>
+	</div>
+	<div class="span-3">
+		<button class="bg-green" type="button">bg-green</button>
+	</div>
+	<div class="span-3">
+		<button class="bg-yellow" type="button">bg-yellow</button>
+	</div>
+	<div class="span-3">
+		<button class="bg-orange" type="button">bg-orange</button>
+	</div>
+	<div class="span-3">
+		<button class="bg-red" type="button">bg-red</button>
+	</div>
+	<div class="span-3">
+		<button class="bg-purple" type="button">bg-purple</button>
+	</div>
+	<div class="span-3">
+		<button class="bg-white" type="button">bg-white</button>
+	</div>
+	<div class="span-3">
+		<button class="bg-dark" type="button">bg-dark</button>
+	</div>
+</div>

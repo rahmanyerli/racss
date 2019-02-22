@@ -1,0 +1,101 @@
+<h6>Default Gap</h6>
+<hr>
+<div class="cols gap">
+	<div class="span-3 padding-vertical border text-center bg-1">
+		<p>1</p>
+	</div>
+	<div class="span-3 padding-vertical border text-center bg-1">
+		<p>2</p>
+	</div>
+	<div class="span-3 padding-vertical border text-center bg-1">
+		<p>3</p>
+	</div>
+	<div class="span-3 padding-vertical border text-center bg-1">
+		<p>4</p>
+	</div>
+</div>
+<br>
+<h6>Quarter Gap</h6>
+<hr>
+	<div class="cols gap-quarter">
+		<div class="span-3 padding-vertical border text-center bg-1">
+			<p>1</p>
+		</div>
+		<div class="span-3 padding-vertical border text-center bg-1">
+			<p>2</p>
+		</div>
+		<div class="span-3 padding-vertical border text-center bg-1">
+			<p>3</p>
+		</div>
+		<div class="span-3 padding-vertical border text-center bg-1">
+			<p>4</p>
+		</div>
+	</div>
+<br>
+<h6>Half Gap</h6>
+<hr>
+<div class="cols gap-half">
+	<div class="span-3 padding-vertical border text-center bg-1">
+		<p>1</p>
+	</div>
+	<div class="span-3 padding-vertical border text-center bg-1">
+		<p>2</p>
+	</div>
+	<div class="span-3 padding-vertical border text-center bg-1">
+		<p>3</p>
+	</div>
+	<div class="span-3 padding-vertical border text-center bg-1">
+		<p>4</p>
+	</div>
+</div>
+<br>
+<h6>One & Half Gap</h6>
+<hr>
+<div class="cols gap-one-half">
+	<div class="span-3 padding-vertical border text-center bg-1">
+		<p>1</p>
+	</div>
+	<div class="span-3 padding-vertical border text-center bg-1">
+		<p>2</p>
+	</div>
+	<div class="span-3 padding-vertical border text-center bg-1">
+		<p>3</p>
+	</div>
+	<div class="span-3 padding-vertical border text-center bg-1">
+		<p>4</p>
+	</div>
+</div>
+<br>
+<h6>Double Gap</h6>
+<hr>
+<div class="cols gap-double">
+	<div class="span-3 padding-vertical border text-center bg-1">
+		<p>1</p>
+	</div>
+	<div class="span-3 padding-vertical border text-center bg-1">
+		<p>2</p>
+	</div>
+	<div class="span-3 padding-vertical border text-center bg-1">
+		<p>3</p>
+	</div>
+	<div class="span-3 padding-vertical border text-center bg-1">
+		<p>4</p>
+	</div>
+</div>
+<br>
+<h6>No Gap</h6>
+<hr>
+<div class="cols gap-none">
+	<div class="span-3 padding-vertical border text-center bg-1">
+		<p>1</p>
+	</div>
+	<div class="span-3 padding-vertical border text-center bg-1">
+		<p>2</p>
+	</div>
+	<div class="span-3 padding-vertical border text-center bg-1">
+		<p>3</p>
+	</div>
+	<div class="span-3 padding-vertical border text-center bg-1">
+		<p>4</p>
+	</div>
+</div>

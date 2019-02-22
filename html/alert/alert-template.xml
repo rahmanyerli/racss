@@ -1,0 +1,14 @@
+<div class="alert" id="my-alert">
+	<h6>
+		...
+	</h6>
+	<hr>
+	<p>
+		...
+	</p>
+	<hr>
+	<div>
+		<button type="button">Do Something</button>
+		<button type="button" data-dismiss="" data-target="my-alert">Dismiss</button>
+	</div>
+</div>
