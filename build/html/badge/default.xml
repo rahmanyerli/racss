@@ -1,0 +1,18 @@
+<div class="cols gap">
+	<button class="span-3">
+		<span class="badge">44</span>
+		Default Badge
+	</button>
+	<button class="span-3">
+		Default Badge
+		<span class="badge">16</span>
+	</button>
+	<button class="span-3">
+		<span class="badge float-left">37</span>
+		Left Badge
+	</button>
+	<button class="span-3">
+		<span class="badge float-right">89</span>
+		Right Badge
+	</button>
+</div>

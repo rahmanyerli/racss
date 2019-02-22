@@ -1,0 +1,60 @@
+<!-- buttons -->
+<div class="cols gap">
+	<button class="span-3" type="button" id="add">Add Alert</button>
+	<button class="span-3" type="button" id="create">Create Alert</button>
+	<button class="span-3" type="button" id="dismiss-first">Dismiss First</button>
+	<button class="span-3" type="button" id="dismiss-last">Dismiss Last</button>
+	<button class="span-3" type="button" id="dismiss-all">Dismiss All</button>
+</div>
+<!-- alert container -->
+<div id="alerts"></div>
+
+<script>
+// bind button click
+document.getElementById("add").addEventListener("click", add);
+document.getElementById("create").addEventListener("click", create);
+document.getElementById("dismiss-first").addEventListener("click", dismissFirst);
+document.getElementById("dismiss-last").addEventListener("click", dismissLast);
+document.getElementById("dismiss-all").addEventListener("click", dismissAll);
+// classic way
+function add() {
+	let date = new Date();
+	let time = date.toLocaleTimeString();
+	let alert = document.createElement("div");
+	alert.className = "alert bg-primary margin-top-half";
+	alert.setAttribute("data-dismiss", "true");
+	alert.textContent = `This alert was created at ${time}`;
+	// bind alert events
+	bindAlert(alert);
+	// append to container
+	document.getElementById("alerts").appendChild(alert);
+}
+// use ra.js "createAlert" function
+function create() {
+	let date = new Date();
+	let time = date.toLocaleTimeString();
+	// pass your html string to this fuction
+	let alert = createAlert(`<div class='alert bg-secondary margin-top-half' data-dismiss='true'>${time}</div>`);
+	document.getElementById("alerts").appendChild(alert);
+}
+function dismiss(id) {
+	// single
+	let alert = document.getElementById(id);
+	dismissAlert(alert);
+}
+function dismissFirst() {
+	// single
+	let alert = document.querySelector("#alerts > .alert:first-child");
+	dismissAlert(alert);
+}
+function dismissLast() {
+	// single
+	let alert = document.querySelector("#alerts > .alert:last-child");
+	dismissAlert(alert);
+}
+function dismissAll() {
+	// multiple
+	let alerts = document.querySelectorAll("#alerts > .alert");
+	dismissAlerts(alerts);
+}
+</script>

@@ -1,0 +1,24 @@
+<div class="accordion">
+	<header>
+		<button class="bg-blue" type="button">...</button>
+	</header>
+	<main>
+		<p>...</p>
+	</main>
+</div>
+<div class="accordion">
+	<header>
+		<button class="bg-orange" type="button">...</button>
+	</header>
+	<main>
+		<p>...</p>
+	</main>
+</div>
+<div class="accordion">
+	<header>
+		<button class="bg-green" type="button">...</button>
+	</header>
+	<main>
+		<p>...</p>
+	</main>
+</div>

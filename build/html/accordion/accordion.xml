@@ -1,0 +1,8 @@
+<div class="accordion">
+	<header>
+		<button type="button">...</button>
+	</header>
+	<main>
+		<p>...</p>
+	</main>
+</div>

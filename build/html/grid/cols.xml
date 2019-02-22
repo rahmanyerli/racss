@@ -1,0 +1,6 @@
+<article class="cols gap">
+	<section class="span-3 border padding">A</section>
+	<section class="span-3 border padding">B</section>
+	<section class="span-3 border padding">C</section>
+	<section class="span-3 border padding">D</section>
+</article>

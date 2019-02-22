@@ -1,0 +1,30 @@
+<div class="alert bg-primary">
+	Alert primary!
+</div>
+<div class="alert bg-secondary">
+	Alert secondary!
+</div>
+<div class="alert bg-blue">
+	Alert blue!
+</div>
+<div class="alert bg-teal">
+	Alert teal!
+</div>
+<div class="alert bg-green">
+	Alert green!
+</div>
+<div class="alert bg-yellow">
+	Alert yellow!
+</div>
+<div class="alert bg-orange">
+	Alert orange!
+</div>
+<div class="alert bg-red">
+	Alert red!
+</div>
+<div class="alert bg-purple">
+	Alert purple!
+</div>
+<div class="alert bg-dark">
+	Alert dark!
+</div>

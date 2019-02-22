@@ -1,0 +1,27 @@
+<div class="alert bg-1" data-dismiss="true">
+	Alert 1!
+</div>
+<div class="alert bg-2" data-dismiss="true">
+	Alert 2!
+</div>
+<div class="alert bg-3" data-dismiss="true">
+	Alert 3!
+</div>
+<div class="alert bg-4" data-dismiss="true">
+	Alert 4!
+</div>
+<div class="alert bg-5" data-dismiss="true">
+	Alert 5!
+</div>
+<div class="alert bg-6" data-dismiss="true">
+	Alert 6!
+</div>
+<div class="alert bg-7" data-dismiss="true">
+	Alert 7!
+</div>
+<div class="alert bg-8" data-dismiss="true">
+	Alert 8!
+</div>
+<div class="alert bg-9" data-dismiss="true">
+	Alert 9!
+</div>
